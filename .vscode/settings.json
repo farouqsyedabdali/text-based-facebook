@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c",
+        "a2_nodes.h": "c"
+    }
+}
